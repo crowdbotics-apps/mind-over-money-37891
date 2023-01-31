@@ -14,7 +14,6 @@
   "dependencies": {
     "@modules/camera": "file:./modules/camera",
     "@modules/social-login": "file:./modules/social-login/",
-    "@modules/splash": "file:./modules/splash/",
     "@modules/user-profile": "file:./modules/user-profile/",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.9.3",
